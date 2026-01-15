@@ -24,11 +24,38 @@ Se utiliza para **redactar contenido claro y estructurado** que puede transforma
 
 # Opciones de tag en Markdown
 
+# Encabezados
+Los encabezados se crean utilizando el símbolo `#`. La cantidad de símbolos indica el nivel del título o subtítulo.
+
+# Énfasis
+Markdown permite resaltar texto importante.
+- *Texto en cursiva*  
+- **Texto en negritas**  
+- ***Texto en negritas y cursiva***
+
+# Listas
+Las listas ayudan a organizar la información.
+- Listas no ordenadas  
+- Listas ordenadas  
+
+# Enlaces
+Los enlaces permiten dirigir al lector a recursos externos o internos.
+
+# Citas
+Las citas se utilizan para resaltar notas, advertencias o frases importantes.
+
+# Código en línea
+El código en línea sirve para destacar comandos, palabras clave o términos técnicos dentro de un texto.
+
+# Líneas horizontales
+Las líneas horizontales ayudan a separar visualmente las secciones de un documento largo.
 
 # Comando de Git
 
 1. Check the status of a local repository: `git status`
-1. Add individual files or globally: `git add .` o `git add {nombre del archivo}`
+1. Add individual files or globally: 
+    * **Agregar todos los archivos:** `git add .`
+    * **Agregar un solo archivo:** `git add {nombre del archivo}`
 1. Add comments to the commit: `git commit -m "{comentario del commit}"`
 1. Upload your changes to the remote repository: `git push origin main`
 1. Create, browse, and delete branches: 
