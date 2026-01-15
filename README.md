@@ -6,4 +6,4 @@
 
 ## Información de la materia
 * **Materia** [Diseño de App Web]
-* **Profesor:** [Fernando Sañudo B]# Application-Web-Design
+* **Profesor:** [Fernando Sañudo B]
