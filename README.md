@@ -28,13 +28,13 @@ Se utiliza para **redactar contenido claro y estructurado** que puede transforma
 Los encabezados se crean utilizando el símbolo `#`. La cantidad de símbolos indica el nivel del título o subtítulo.
 2. Énfasis
 Markdown permite resaltar texto importante.
-- *Texto en cursiva*  
-- **Texto en negritas**  
-- ***Texto en negritas y cursiva***
+    - *Texto en cursiva*  
+    - **Texto en negritas**  
+    - ***Texto en negritas y cursiva***
 3. Listas
 Las listas ayudan a organizar la información.
-- Listas no ordenadas  
-- Listas ordenadas  
+    - Listas no ordenadas  
+    - Listas ordenadas  
 4. Enlaces
 Los enlaces permiten dirigir al lector a recursos externos o internos.
 5. Citas
